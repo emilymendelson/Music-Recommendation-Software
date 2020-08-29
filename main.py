@@ -1,7 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: August 4, 2020
-# CISC 121 Assignment 3
-
 import recommendations
 import statistics
 
