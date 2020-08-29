@@ -1,7 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: August 4, 2020
-# CISC 121 Assignment 3
-
 # This module runs the unit testing for the program.
 
 import recommendations
