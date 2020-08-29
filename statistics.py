@@ -1,7 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: August 4, 2020
-# CISC 121 Assignment 3
-
 """The statistics module imports the recommendations module and includes statistical functions.
 These functions calculate and print out the average rating of each music genre and the most popular music genre"""
 
