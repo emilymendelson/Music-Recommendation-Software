@@ -1,8 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: August 4, 2020
-# CISC 121 Assignment 3
-
-
 """The recommendations module creates a randomized dictionary of subscribers and music ratings. It recommends
 a music genre for a user, calculates how similar two users are, and matches users based on similarity."""
 
